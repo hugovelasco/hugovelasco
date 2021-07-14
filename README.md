@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 - 🐧 Mint Mate 20
 
-<h3> Loading... </h3>
+### 🌀 Loading...
 
 <a href="https://github.com/hugovelasco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugovelasco&theme=tokyonight&show_icons=true" />
