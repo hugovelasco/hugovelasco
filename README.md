@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ### 💻 Development environment
 
-- 🐧 Mint Mate 20
+- 🐧 Linux Mint
 
 ### 🌀 Loading...
 
